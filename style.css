@@ -1,0 +1,16 @@
+body{ 
+    background-color: rgb(254, 196, 242);
+    font-family: bai Jumjuree;
+}
+footer {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0,5rem;
+}
