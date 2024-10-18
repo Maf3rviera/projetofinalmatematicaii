@@ -9,8 +9,15 @@ footer {
     bottom: 0%;
     width: 100%;
 }
-footer{
+footer p{
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0,5rem;
+}
+#container {
+    display: flex;
+}
+.cartão {
+    margin: 1rem 1rem;
+    background-color: bisque;
 }
